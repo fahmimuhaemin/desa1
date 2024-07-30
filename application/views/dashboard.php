@@ -68,7 +68,7 @@
       <ul class="sidenav" id="mobile-nav">
         <li><a href="#about">Pemerintah Desa</a></li>
         <li><a href="#fasilitas">Fasilitas</a></li>
-        <li><a href="#sistem">Sistem Kegiatan</a></li>
+        <li><a href="#sistem">Sistem Kegiatan/Berita</a></li>
         <li><a href="#portfolio">Portofolio</a></li>
         <li><a href="#contact">Kontak</a></li>
         <li><a href="<?php echo base_url('login'); ?>">Login</a></li>
@@ -83,8 +83,8 @@
           <!-- <li>
             <img src="<?php echo base_url('assets') ?>/user/img/slider/company.jpg"> 
             <div class="caption center-align">
-              <h3>Selamat Datang di Desa Nagrak</h3>
-              <h5 class="light grey-text text-lighten-3">KECAMATAN PACET - KABUPATEN BANDUNG</h5>
+              <h3>Selamat Datang di Desa Kawahmanuk</h3>
+              <h5 class="light grey-text text-lighten-3">KECAMATAN Darma - KABUPATEN KUNINGAN</h5>
             </div>
           </li>  -->
            <li>
