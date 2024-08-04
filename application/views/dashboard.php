@@ -194,42 +194,7 @@
         </div>
       </section>
 
-      <!-- portfolio -->
-      <section id="portfolio" class="portfolio scrollspy">
-        <div class="container">
-          <h3 class="light center grey-text text-darken-3">Portfolio</h3>
-          <div class="row">
-            <div class="col m3 s12">
-              <img src="<?php echo base_url('assets') ?>/user/img/portfolio/ds.png" class="responsive-img materialboxed">
-            </div>
-            <div class="col m3 s12">
-              <img src="<?php echo base_url('assets') ?>/user/img/portfolio/f.png" class="responsive-img materialboxed">
-            </div>
-            <div class="col m3 s12">
-              <img src="<?php echo base_url('assets') ?>/user/img/portfolio/g.png" class="responsive-img materialboxed">
-            </div>
-            <div class="col m3 s12">
-              <img src="<?php echo base_url('assets') ?>/user/img/portfolio/h.png" class="responsive-img materialboxed">
-            </div>
-          </div>
-          <div class="row">
-            <div class="col m3 s12">
-              <img src="<?php echo base_url('assets') ?>/user/img/portfolio/f.png" class="responsive-img materialboxed">
-            </div>
-            <div class="col m3 s12">
-              <img src="<?php echo base_url('assets') ?>/user/img/portfolio/as.png" class="responsive-img materialboxed">
-            </div>
-            <div class="col m3 s12">
-              <img src="<?php echo base_url('assets') ?>/user/img/portfolio/as.png" class="responsive-img materialboxed">
-            </div>
-            <div class="col m3 s12">
-              <img src="<?php echo base_url('assets') ?>/user/img/portfolio/g.png" class="responsive-img materialboxed">
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <!-- contact -->
+            <!-- contact -->
       <section id="contact" class="contact grey lighten-3 scrollspy">
         <div class="container">
           <h3 class="center light grey-text text-darken-3">Kontak</h3>
